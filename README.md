@@ -1,4 +1,4 @@
-# Splitwise Backend API
+# Splitwise
 
 A production-grade bill splitting application with receipt OCR, phone authentication, and itemized expense tracking.
 
